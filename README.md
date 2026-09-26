@@ -126,30 +126,6 @@ For production environments, consider using:
 
 Make sure you have a reliable way to access your VPS before modifying SSH configuration.
 
-## 📁 Project Structure
-
-    .
-    ├── install.sh
-    └── README.md
-
-## 🛠️ Development
-
-Clone the repository:
-
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-
-Enter the project directory:
-
-    cd YOUR-REPOSITORY
-
-Make the installer executable:
-
-    chmod +x install.sh
-
-Run:
-
-    sudo ./install.sh
-
 ## 🤝 Contributing
 
 Contributions, improvements, and bug fixes are welcome.
@@ -162,15 +138,6 @@ Before submitting a pull request:
 4. Test hostname changes.
 5. Avoid changes that can lock users out of SSH.
 
-## 📜 License
-
-Choose a license for your project.
-
-For example:
-
-    MIT License
-
----
 
 AWS VPS Setup Panel v2
 
